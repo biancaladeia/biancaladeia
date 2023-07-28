@@ -14,12 +14,6 @@ Acredito no potencial da tecnologia para transformar vidas e, por isso, busco co
 
 🌐 Português é minha língua materna, e sou fluente em inglês. Além disso, estou sempre buscando aprimorar meus conhecimentos em francês e alemão
 
-## Projetos
-
-🚀 Possuo alguns projetos pessoais no GitHub, onde aplico conhecimentos em diversas tecnologias.
-
-💡 Sempre em busca de novos projetos desafiadores para contribuir e aprender.
-
 ## Contato
 
 Você pode entrar em contato comigo através das minhas redes sociais:

@@ -12,7 +12,7 @@ Acredito no potencial da tecnologia para transformar vidas e, por isso, busco co
 
 💻 Minhas habilidades abrangem conhecimentos em HTML, CSS, JavaScript, Python, Métodos Ágeis e Design Thinking.
 
-🌐 Português é minha língua materna, e sou fluente em inglês. Além disso, estou sempre buscando aprimorar meus conhecimentos em francês e alemão
+🌐 Português é minha língua materna, e sou fluente em inglês. Além disso, estou sempre buscando aprimorar meus conhecimentos em francês e alemão.
 
 ## Contato
 

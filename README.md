@@ -1,4 +1,4 @@
-## Olá, eu sou a Bianca Ladeia!
+## Olá, mundo!
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, e minha paixão incansável pela tecnologia tem sido uma constante desde a infância. Com 24 anos, busco incessantemente aprender e aplicar a tecnologia em soluções inovadoras. 
 

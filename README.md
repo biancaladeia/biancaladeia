@@ -1,8 +1,3 @@
-## Olá, mundo!
-
-Sou estudante de Análise e Desenvolvimento de Sistemas, e minha paixão incansável pela tecnologia tem sido uma constante desde a infância. Com 24 anos, busco incessantemente aprender e aplicar a tecnologia em soluções inovadoras. 
-
-Acredito no potencial da tecnologia para transformar vidas e, por isso, busco constantemente projetos que me permitam ser uma solucionadora de desafios, sempre à frente das tendências e necessidades do mercado. Como futura profissional da área, minha dedicação ao aprendizado e minha visão de futuro são os pilares que impulsionam meu entusiasmo por construir uma carreira promissora e impactante nesse campo tão fascinante.
 
 ## Sobre mim
 

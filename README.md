@@ -1,13 +1,7 @@
 
 ## Sobre mim
-
-📚 Sempre em busca de novos conhecimentos em tecnologia e atualização constante no universo da programação.
  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas em constante busca por aprimorar habilidades e conhecimentos.
-
-💻 Minhas habilidades abrangem conhecimentos em HTML, CSS, JavaScript, Python, Métodos Ágeis e Design Thinking.
-
-🌐 Português é minha língua materna, e sou fluente em inglês. Além disso, estou sempre buscando aprimorar meus conhecimentos em francês e alemão.
+🎓 Estudante de Ciência da Computação.
 
 ## Contato
 
